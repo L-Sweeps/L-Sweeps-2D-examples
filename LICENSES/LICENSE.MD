@@ -1,6 +1,9 @@
+License for Contrast and Random models and configuration files
+--------------------------------------------------------------
+
 MIT License
 
-Copyright (c) 2019 L-Sweeps
+Copyright (c) 2019 Matthias Taus, Leonardo Zepeda-Nunez, Russell J. Hewett, and Laurent Demanet
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +22,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+License for BP Models
+---------------------
+
+BP Models are generated under the license for the original 2004 BP velocity estimation benchmark.
+
+License for 2004 BP velocity estimation benchmark is included in `2004_Benchmark_READMES.pdf`
+and modifications are described in `2004_Benchmark_README_modification.md` as required.
+
+By cloning this repository and using the modified BP model within, you are the RECEIVING PARTY
+under the terms described in `2004_Benchmark_READMES.pdf` and you agree to the specified terms
+as a condition of its use.
