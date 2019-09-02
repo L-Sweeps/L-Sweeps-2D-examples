@@ -10,6 +10,4 @@
 
 ## Configuration Files
 
-The configuration files can be read with the following tool:
-
-https://github.com/awdeorio/csvstream
+The configuration files can be read with libconfig.
